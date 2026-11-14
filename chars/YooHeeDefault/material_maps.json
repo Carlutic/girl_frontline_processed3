@@ -1,0 +1,22 @@
+{
+  "defaultPreset": "lobby",
+  "c_YooHeeSSR01_slg_body_d.png": {
+    "normal": "maps/c_YooHeeSSR01_slg_body_d_n.png"
+  },
+  "cw_YooHeeSSR01_WL_DP51_d.png": {
+    "normal": "maps/cw_YooHeeSSR01_WL_DP51_d_n.png"
+  },
+  "c_YooHeeSSR01_slg_cloth1_da.png": {
+    "normal": "maps/c_YooHeeSSR01_slg_cloth1_da_n.png"
+  },
+  "c_YooHeeSSR01_slg_cloth2_d.png": {
+    "normal": "maps/c_YooHeeSSR01_slg_cloth2_d_n.png"
+  },
+  "stockingMode": "alpha",
+  "stockingSkinTexture": "socks_skin_d.png",
+  "materialOverrides": {
+    "Socks": {
+      "diffuse": "socks_d.png"
+    }
+  }
+}

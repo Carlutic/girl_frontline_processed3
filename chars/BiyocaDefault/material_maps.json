@@ -1,0 +1,12 @@
+{
+  "defaultPreset": "lobby",
+  "c_BiyocaSSR01_slg_cloth2_d.png": {
+    "normal": "maps/c_BiyocaSSR01_slg_cloth2_d_n.png"
+  },
+  "5.56Bullet_d.png": {
+    "normal": "maps/5.56Bullet_d_n.png"
+  },
+  "c_BiyocaSSR01_slg_cloth1_d.png": {
+    "normal": "maps/c_BiyocaSSR01_slg_cloth1_d_n.png"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "defaultPreset": "lobby",
+  "body_d.png": {
+    "normal": "maps/body_d_n.png"
+  },
+  "c_yooheessr0101_slg_cloth_da_01_23_2025.png": {
+    "normal": "maps/c_yooheessr0101_slg_cloth_da_01_23_2025_n.png"
+  },
+  "c_yooheessr0101_slg_silkstock2_da_01_23_2025.png": {
+    "normal": "maps/c_yooheessr0101_slg_silkstock2_da_01_23_2025_n.png"
+  },
+  "c_yooheessr0101_slg_silkstock1_da_01_23_2025.png": {
+    "normal": "maps/c_yooheessr0101_slg_silkstock1_da_01_23_2025_n.png"
+  },
+  "stockingMode": "alpha",
+  "stockingSkinTexture": "socks_skin_d.png",
+  "materialOverrides": {
+    "Body-Socks-A(Default)": {
+      "diffuse": "socks_d.png"
+    }
+  }
+}

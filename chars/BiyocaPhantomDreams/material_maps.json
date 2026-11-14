@@ -1,0 +1,16 @@
+{
+  "defaultPreset": "lobby",
+  "c_biyocassr0101_slg_cloth2_da.png": {
+    "normal": "maps/c_biyocassr0101_slg_cloth2_da_n.png"
+  },
+  "c_BiyocaSSR0101_slg_cloth1_d.png": {
+    "normal": "maps/c_BiyocaSSR0101_slg_cloth1_d_n.png"
+  },
+  "stockingMode": "alpha",
+  "stockingSkinTexture": "socks_skin_d.png",
+  "materialOverrides": {
+    "SocksA": {
+      "diffuse": "socks_d.png"
+    }
+  }
+}

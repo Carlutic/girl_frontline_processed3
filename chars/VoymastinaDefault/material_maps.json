@@ -1,0 +1,22 @@
+{
+  "defaultPreset": "lobby",
+  "c_VoymastinaSSR01_slg_cloth2_d.png": {
+    "normal": "maps/c_VoymastinaSSR01_slg_cloth2_d_n.png"
+  },
+  "c_VoymastinaSSR01_slg_cloth1_d.png": {
+    "normal": "maps/c_VoymastinaSSR01_slg_cloth1_d_n.png"
+  },
+  "c_VoymastinaSSR01_slg_weapon_d.png": {
+    "normal": "maps/c_VoymastinaSSR01_slg_weapon_d_n.png"
+  },
+  "cw_MP443_WL_d.png": {
+    "normal": "maps/cw_MP443_WL_d_n.png"
+  },
+  "stockingMode": "alpha",
+  "stockingSkinTexture": "socks_skin_d.png",
+  "materialOverrides": {
+    "Cloth1-Socks": {
+      "diffuse": "socks_d.png"
+    }
+  }
+}

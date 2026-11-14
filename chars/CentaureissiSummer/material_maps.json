@@ -1,0 +1,12 @@
+{
+  "defaultPreset": "lobby",
+  "body_d.png": {
+    "normal": "maps/body_d_n.png"
+  },
+  "c_CentaureissiSSR0101_slg_cloth1_da.png": {
+    "normal": "maps/c_CentaureissiSSR0101_slg_cloth1_da_n.png"
+  },
+  "c_CentaureissiSSR0101_slg_cloth2_da.png": {
+    "normal": "maps/c_CentaureissiSSR0101_slg_cloth2_da_n.png"
+  }
+}
