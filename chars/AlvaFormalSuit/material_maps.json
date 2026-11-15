@@ -6,11 +6,5 @@
   "c_AlvaSSR0101_slg_cloth1_d.png": {
     "normal": "maps/c_AlvaSSR0101_slg_cloth1_d_n.png"
   },
-  "stockingMode": "alpha",
-  "stockingSkinTexture": "socks_skin_d.png",
-  "materialOverrides": {
-    "Socks": {
-      "diffuse": "socks_d.png"
-    }
-  }
+  "disableStocking": true
 }
